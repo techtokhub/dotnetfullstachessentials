@@ -1,0 +1,72 @@
+{
+    "name": "dotnetfullstachessentials",
+    "displayName": ".NetFullstachEssentials",
+    "description": "This extension pack for Visual Studio Code adds extensions that are amazingly useful for dotnet fullstack development",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+      },
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": {
+        "type": "git",
+        "url": ""
+      },
+      "scripts": {
+        "package": "npx vsce package",
+        "publish": "npx vsce publish"
+      },
+      "keywords": [
+        "Angular",
+        "Angular 12",
+        "TypeScript",
+        "HTML",
+        "C#",
+        ".Net",
+        "Fullstack",
+        "React",
+        "React Js",
+        "Docker",
+        "Themes",
+        "Icons"
+      ],
+      "publisher": "kannans",
+      "engines": {
+        "vscode": "^1.37.0"
+      },
+      "categories": [
+        "Extension Packs"
+      ],
+      "extensionPack": [
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode",
+          "ms-azuretools.vscode-docker",
+          "ms-kubernetes-tools.vscode-kubernetes-tools",
+          "2gua.rainbow-brackets",
+          "abusaidm.html-snippets",
+          "formulahendry.auto-close-tag",
+          "formulahendry.auto-rename-tag",
+          "christian-kohler.path-intellisense",
+          "naumovs.color-highlight",
+          "usernamehw.errorlens",
+          "dracula-theme.theme-dracula",
+          "pkief.material-icon-theme",
+          "ms-vscode.vscode-typescript-tslint-plugin",
+          "johnpapa.angular2",
+          "angular.ng-template",
+          "dsznajder.es7-react-js-snippets",
+          "ms-dotnettools.csharp",
+          "jchannon.csharpextensions",
+          "k--kato.docomment",
+          "fudge.auto-using",
+          "visualstudioexptteam.vscodeintellicode",
+          "aaron-bond.better-comments",
+          "gruntfuggly.todo-tree",
+          "wayou.vscode-todo-highlight",
+          "wix.vscode-import-cost",
+          "kisstkondoros.vscode-gutter-preview",
+          "rangav.vscode-thunder-client",
+          "eamodio.gitlens"
+    ]
+}
