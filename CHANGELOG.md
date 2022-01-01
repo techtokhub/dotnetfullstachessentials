@@ -1,9 +1,6 @@
-# Change Log
+# .Net full stack Essentials - Extension Pack for VS Code
 
-All notable changes to the "dotnetfullstachessentials" extension will be documented in this file.
+# 1.0.0 (2022-01-01)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial Version
+  - Created extension pack
