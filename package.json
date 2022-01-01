@@ -11,7 +11,7 @@
       "license": "SEE LICENSE IN LICENSE.md",
       "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/techtokhub/dotnetfullstachessentials"
       },
       "scripts": {
         "package": "npx vsce package",
